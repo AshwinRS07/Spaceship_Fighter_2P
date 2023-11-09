@@ -317,8 +317,8 @@ if __name__ == "__main__":
 # -Add power ups that you can pick up and will increase the amount of bullets you can fire, increase bullet speed etc...
 # !Convert Ships to classes to make working with them easier
 # :Power up stays for 5 seconds on screen. Buff duration: 5 seconds. Types: Max bullet slots - Blue, bullet speed - Red, HP restore - Green. 
-# -Add a health system so you can get hit more times before you die
-# -You could also add a healtbar if you're adding a healt system
-# -You can also add different firing modes, like holding down a different key will shoot 2 bullets next to each other etc...
-# -You could also add a border that slowly shrinks the space you can move around to prevent stalemates
-# -You could add a score system
+# -Add a health system so you can get hit more times before you die - ? Included in boosts
+# -You could also add a healthbar if you're adding a health system - Doable
+# -You can also add different firing modes, like holding down a different key will shoot 2 bullets next to each other etc... - Interesting idea, challenging idea: Tracking Missiles
+# -You could also add a border that slowly shrinks the space you can move around to prevent stalemates - Possibly add a rect outside of which player takes damage on staying too long
+# -You could add a score system - With main menu
