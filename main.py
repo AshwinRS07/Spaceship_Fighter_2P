@@ -378,7 +378,7 @@ if __name__ == "__main__":
 # Additions:-
 # -Add a collision check to the bullets so if they collide, they destroy each other - DONE
 # -Add power ups that you can pick up and will increase the amount of bullets you can fire, increase bullet speed etc...
-# !Convert Ships to classes to make working with them easier
+# !Convert Ships to classes to make working with them easier - DONE
 # :Power up stays for 5 seconds on screen. Buff duration: 5 seconds. Types: Max bullet slots - Blue, bullet speed - Red, HP restore - Green. 
 # -Add a health system so you can get hit more times before you die - ? Included in boosts
 # -You could also add a healthbar if you're adding a health system - Doable
